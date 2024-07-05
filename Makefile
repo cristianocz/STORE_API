@@ -1,3 +1,5 @@
+# make file para rolagem dos apps
+
 run:
 	@uvicorn store.main:app --reload
 
