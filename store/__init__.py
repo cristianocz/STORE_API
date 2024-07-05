@@ -1,0 +1,1 @@
+# incialização Geral
