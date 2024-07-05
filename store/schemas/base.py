@@ -1,3 +1,5 @@
+# controles de processos de DB como validação de Datas 
+
 from datetime import datetime
 from decimal import Decimal
 from bson import Decimal128
