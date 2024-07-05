@@ -1,3 +1,5 @@
+# Dados de produtos para testes
+
 def product_data():
     return {
         "name": "Iphone 14 Pro Max",
